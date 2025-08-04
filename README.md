@@ -9,7 +9,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Coding" width="400" src="https://i0.hdslb.com/bfs/new_dyn/a120b9bbe7a335e9a46878abbb0732621591940434.gif">
+<img align="right" alt="Coding" width="400" src="images/1.gif">
 
 - 🤖 Focused on **AI Technology** 
 - 📝 My blog: [blog-riws.vercel.app](https://blog-riws.vercel.app/)
